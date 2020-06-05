@@ -38,3 +38,8 @@ nav .nav-rigth-section .menu-icon{
   width: 25px;
   height: 25px;
 }
+
+nav .nav-rigth-section img{
+  border-radius: 50%;
+  margin-left: 10px;
+}
