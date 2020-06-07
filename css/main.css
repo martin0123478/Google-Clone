@@ -153,11 +153,16 @@ footer ul{
 }
 
 footer .footer-left{
-  justify-content: left;
+  justify-self: left;
 }
 
 footer .footer-rigth{
-  justify-content: right;
+  justify-self: right;
+}
+
+footer ul li a{
+  margin: 10px;
+  color:#5f6368
 }
 
 
